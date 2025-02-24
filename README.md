@@ -19,7 +19,7 @@ This project is a simple authentication system built using PHP, MySQL, and Boots
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/1dev-hridoy/Node-Api-Template.git
+git clone https://github.com/1dev-hridoy/Simple-User-Account-Management.git
 cd auth-system
 ```
 
