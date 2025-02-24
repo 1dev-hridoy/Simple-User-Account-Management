@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #007bff;
+}
+
+.form-control {
+    border-radius: 0.25rem;
+    box-shadow: none;
+}
+
+.container {
+    max-width: 500px;
+}
+
+.mt-5 {
+    margin-top: 3rem !important;
+}
+
+h2 {
+    color: #007bff;
+}
